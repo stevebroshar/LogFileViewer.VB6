@@ -2,7 +2,7 @@
 
 Log file viewer -- written in VB6
 
-Displays the content of log file -- showing appended text in real time.
+Displays the content of a log file -- showing appended text in real time.
 
 # Enhancement Ideas
 
