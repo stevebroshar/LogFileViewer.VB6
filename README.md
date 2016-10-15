@@ -90,9 +90,9 @@ are saved for each format.
 
 •	Maintain selected log item when refresh and (un)select roll-up.
 
-•	Fix bug: Error when rollup is on and file has numeric ID value (PlanningTimer.csv).  This error does not happen when opening a normal planning-logger file, but the error should still be eliminated.
+•	Fix bug: Error when rollup is on and file has numeric ID value.
 
-•	Handle files with no header row in file.  Hard-code a fixed set of column headers to use in the case where no header line is found.  Downside: If the file format changes, the log viewer will not handle a file with not headers very well.  Also, detecting that the first line is not in fact the headers is a tricky algorithm that may fail if the planning-logger format changes.
+•	Handle files with no header row in file.  Hard-code a fixed set of column headers to use in the case where no header line is found.  Downside: If the file format changes, the log viewer will not handle a file with not headers very well.
 
 •	Improve efficiency by loading less than the entire file on each refresh loop.
 
