@@ -1,0 +1,1145 @@
+Timestamp	Machine	Text
+2005/08/15:16:04:07	SOTTPLANDEV2	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/15:15:04:16	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-15-1407 Aug 15, Monday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/15:16:00:56	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-15-1541 Aug 15, Monday, 3PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/15:20:26:48	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/15:23:24:08	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/16:02:12:59	SOTTPLANDEV2	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/16:02:25:33	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/16:09:09:05	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/16:09:09:14	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/16:09:09:22	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/16:09:09:49	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/16:09:09:56	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/16:04:00:37	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/16:07:00:04	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/16:10:14:09	SOTTPLANDEV2	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/16:16:09:54	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/16:13:33:49	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-1237 Aug 16, Tuesday, 12PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/16:13:33:51	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-09-1151 Aug 9, Tuesday, 11AM.tar.gz'.
+2005/08/16:13:33:52	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-15-1407 Aug 15, Monday, 2PM.tar.gz'.
+2005/08/16:13:33:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-15-1541 Aug 15, Monday, 3PM.tar.gz'.
+2005/08/16:14:56:52	SOTTPLANDEV2	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/16:15:52:10	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-1456 Aug 16, Tuesday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/16:18:03:43	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-1707 Aug 16, Tuesday, 5PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/16:21:07:48	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-2011 Aug 16, Tuesday, 8PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/16:22:44:59	SOTTPLANDEV2	Published '\\sottplandev2\BaiaShare\BuildRepository\05-08-16-2212 Aug 16, Tuesday, 10PM.tar.gz' from folder 'D:\BaiaDevBuilds'.
+2005/08/16:22:00:05	sminbaiabuild	ERROR: Publish drive '\\usmpx01\NoBackup' has only 906MB free space -- minimum is 953MB.
+2005/08/17:03:01:49	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-0205 Aug 17, Wednesday, 2AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/17:03:01:52	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-10-0317 Aug 10, Wednesday, 3AM.tar.gz'.
+2005/08/17:03:01:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-1456 Aug 16, Tuesday, 2PM.tar.gz'.
+2005/08/17:03:01:55	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-1707 Aug 16, Tuesday, 5PM.tar.gz'.
+2005/08/17:03:01:56	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-2011 Aug 16, Tuesday, 8PM.tar.gz'.
+2005/08/17:04:00:48	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/17:10:10:45	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-17-0852 Aug 17, Wednesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/08/17:10:10:48	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-10-1712 Aug 10, Wednesday, 5PM.tar.gz'.
+2005/08/17:06:47:18	SOTTPLANDEV2	Published '\\sottplandev2\BaiaShare\BuildRepository\05-08-17-0614 Aug 17, Wednesday, 6AM.tar.gz' from folder 'D:\BaiaDevBuilds'.
+2005/08/17:07:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/17:12:56:13	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-1159 Aug 17, Wednesday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/17:15:08:26	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-1411 Aug 17, Wednesday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/17:16:36:40	SOTTPLANDEV2	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/17:18:16:23	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-1719 Aug 17, Wednesday, 5PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/17:21:05:21	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-2008 Aug 17, Wednesday, 8PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/17:22:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/18:03:04:30	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-0208 Aug 18, Thursday, 2AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/18:03:04:33	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-11-0205 Aug 11, Thursday, 2AM.tar.gz'.
+2005/08/18:03:04:35	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-1159 Aug 17, Wednesday, 11AM.tar.gz'.
+2005/08/18:03:04:37	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-1411 Aug 17, Wednesday, 2PM.tar.gz'.
+2005/08/18:03:04:39	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-1719 Aug 17, Wednesday, 5PM.tar.gz'.
+2005/08/18:03:04:41	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-2008 Aug 17, Wednesday, 8PM.tar.gz'.
+2005/08/18:10:07:57	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-18-0850 Aug 18, Thursday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/08/18:10:08:01	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-11-0900 Aug 11, Thursday, 9AM.tar.gz'.
+2005/08/18:06:07:26	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-0510 Aug 18, Thursday, 5AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/18:09:03:20	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-0806 Aug 18, Thursday, 8AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/18:15:25:36	wminbrosharsxp2	Test Message
+2005/08/18:13:45:17	SOTTPLANDEV2	Published '\\sottplandev2\BaiaShare\BuildRepository\05-08-18-0659 Aug 18, Thursday, 6AM.tar.gz' from folder 'D:\BaiaDevBuilds'.
+2005/08/18:12:54:48	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-1157 Aug 18, Thursday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/18:15:42:33	SOTTPLANDEV2	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/18:15:42:20	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-1445 Aug 18, Thursday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/18:23:14:02	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-1718 Aug 18, Thursday, 5PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/19:02:04:58	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-2008 Aug 18, Thursday, 8PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/19:03:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/19:08:03:39	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-0207 Aug 19, Friday, 2AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/19:08:03:42	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-12-0217 Aug 12, Friday, 2AM.tar.gz'.
+2005/08/19:08:03:44	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-0510 Aug 18, Thursday, 5AM.tar.gz'.
+2005/08/19:08:03:46	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-0806 Aug 18, Thursday, 8AM.tar.gz'.
+2005/08/19:08:03:48	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-1157 Aug 18, Thursday, 11AM.tar.gz'.
+2005/08/19:08:03:50	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-1445 Aug 18, Thursday, 2PM.tar.gz'.
+2005/08/19:08:03:52	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-1718 Aug 18, Thursday, 5PM.tar.gz'.
+2005/08/19:08:03:54	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-2008 Aug 18, Thursday, 8PM.tar.gz'.
+2005/08/19:08:17:01	SOTTPLANDEV2	Published '\\sottplandev2\BaiaShare\BuildRepository\05-08-18-2255 Aug 18, Thursday, 10PM.tar.gz' from folder 'D:\BaiaDevBuilds'.
+2005/08/19:09:00:41	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/19:10:07:31	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-19-0849 Aug 19, Friday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/08/19:10:00:41	SOTTPLANDEV2	ERROR: Build drive 'D:' has only 134MB free space -- minimum is 953MB.
+2005/08/19:14:04:54	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-0808 Aug 19, Friday, 8AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/19:17:48:13	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-1152 Aug 19, Friday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/19:20:23:55	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-1427 Aug 19, Friday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/19:23:02:53	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-1706 Aug 19, Friday, 5PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/20:02:04:13	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-2008 Aug 19, Friday, 8PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/20:03:00:13	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/20:08:06:18	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-20-0210 Aug 20, Saturday, 2AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/20:08:06:20	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-13-0209 Aug 13, Saturday, 2AM.tar.gz'.
+2005/08/20:08:06:22	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-0808 Aug 19, Friday, 8AM.tar.gz'.
+2005/08/20:08:06:24	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-1152 Aug 19, Friday, 11AM.tar.gz'.
+2005/08/20:08:06:26	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-1427 Aug 19, Friday, 2PM.tar.gz'.
+2005/08/20:08:06:28	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-1706 Aug 19, Friday, 5PM.tar.gz'.
+2005/08/20:08:06:30	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-2008 Aug 19, Friday, 8PM.tar.gz'.
+2005/08/20:09:00:48	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/20:12:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/20:15:00:20	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/20:20:04:14	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-20-1408 Aug 20, Saturday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/20:21:00:21	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:00:00:26	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:03:00:28	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:06:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:09:00:45	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:12:00:20	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:15:00:20	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:18:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/21:21:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/22:00:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/22:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/22:08:20:08	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-22-0220 Aug 22, Monday, 2AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/22:08:20:10	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-15-1149 Aug 15, Monday, 11AM.tar.gz'.
+2005/08/22:08:20:11	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-20-1408 Aug 20, Saturday, 2PM.tar.gz'.
+2005/08/22:09:00:37	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-22-0842 Aug 22, Monday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/08/22:09:00:42	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-15-0859 Aug 15, Monday, 8AM.tar.gz'.
+2005/08/22:14:42:45	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/22:23:20:32	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-22-1720 Aug 22, Monday, 5PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/23:00:00:22	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/23:03:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/23:08:18:57	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-23-0218 Aug 23, Tuesday, 2AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/23:08:18:59	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-16-1237 Aug 16, Tuesday, 12PM.tar.gz'.
+2005/08/23:08:19:00	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-22-1156 Aug 22, Monday, 11AM.tar.gz'.
+2005/08/23:08:19:01	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-22-1720 Aug 22, Monday, 5PM.tar.gz'.
+2005/08/23:09:00:41	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/23:09:03:42	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-23-0845 Aug 23, Tuesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/08/23:12:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/23:20:22:08	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-23-1422 Aug 23, Tuesday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/23:21:00:15	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/24:00:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/24:05:08:20	sminbaiabuild	ERROR: Unable to find any files matching pattern 'D:\dev\Baia\isv\rogue_wave\7.1.1\workspaces\WINNT4\MSVC60\12d\bin\tls7012d.dll'.
+2005/08/24:07:33:26	sminbaiabuild	ERROR: Unable to find any files matching pattern 'D:\dev\Baia\isv\rogue_wave\7.1.1\workspaces\WINNT4\MSVC60\12d\bin\tls7012d.dll'.
+2005/08/24:09:17:00	syorlab4-2k	ERROR: Unable to find any files matching pattern 'D:\Devt\baia\isv\rogue_wave\7.1.1\workspaces\WINNT4\MSVC60\12d\bin\tls7012d.dll'.
+2005/08/24:13:35:38	sminbaiabuild	ERROR: Unable to find any files matching pattern 'D:\dev\Baia\isv\rogue_wave\7.1.1\workspaces\WINNT4\MSVC60\12d\bin\tls7012d.dll'.
+2005/08/24:15:53:18	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/24:18:52:52	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/24:19:43:33	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/24:20:37:06	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-24-1447 Aug 24, Wednesday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/24:21:42:23	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/25:00:00:19	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/25:03:01:48	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/08/25:06:00:25	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/08/25:07:09:29	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/25:09:00:59	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/08/25:12:22:14	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/25:15:57:12	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1000 Aug 25, Thursday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/25:17:34:24	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1137 Aug 25, Thursday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/25:17:34:25	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-18-0208 Aug 18, Thursday, 2AM.tar.gz'.
+2005/08/25:17:34:27	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-17-0205 Aug 17, Wednesday, 2AM.tar.gz'.
+2005/08/25:17:34:28	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-23-1422 Aug 23, Tuesday, 2PM.tar.gz'.
+2005/08/25:18:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/25:22:47:05	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1650 Aug 25, Thursday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/26:01:33:25	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1936 Aug 25, Thursday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/26:03:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/26:05:01:49	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/26:07:35:25	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-0138 Aug 26, Friday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/26:07:35:26	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-19-0207 Aug 19, Friday, 2AM.tar.gz'.
+2005/08/26:07:35:27	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1137 Aug 25, Thursday, 11AM.tar.gz'.
+2005/08/26:07:35:28	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1650 Aug 25, Thursday, 4PM.tar.gz'.
+2005/08/26:07:35:29	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1936 Aug 25, Thursday, 7PM.tar.gz'.
+2005/08/26:10:36:00	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-0439 Aug 26, Friday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/26:12:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/26:16:33:38	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-1037 Aug 26, Friday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/26:19:32:15	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-1335 Aug 26, Friday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/26:22:37:24	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-1640 Aug 26, Friday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/27:00:00:44	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/27:03:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/27:07:33:47	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-0137 Aug 27, Saturday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/27:07:33:49	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-20-0210 Aug 20, Saturday, 2AM.tar.gz'.
+2005/08/27:07:33:50	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-0439 Aug 26, Friday, 4AM.tar.gz'.
+2005/08/27:07:33:51	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-1037 Aug 26, Friday, 10AM.tar.gz'.
+2005/08/27:07:33:52	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-1335 Aug 26, Friday, 1PM.tar.gz'.
+2005/08/27:07:33:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-1640 Aug 26, Friday, 4PM.tar.gz'.
+2005/08/27:10:36:31	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-0439 Aug 27, Saturday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/27:13:33:30	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-0736 Aug 27, Saturday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/27:16:33:29	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-1036 Aug 27, Saturday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/27:18:00:21	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/27:21:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/28:00:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/28:03:00:27	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/28:06:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/28:09:00:48	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/28:13:12:09	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/28:16:31:29	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-28-1034 Aug 28, Sunday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/28:16:31:31	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-0439 Aug 27, Saturday, 4AM.tar.gz'.
+2005/08/28:16:31:32	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-0736 Aug 27, Saturday, 7AM.tar.gz'.
+2005/08/28:16:31:33	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-1036 Aug 27, Saturday, 10AM.tar.gz'.
+2005/08/28:18:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/28:21:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/29:00:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/29:03:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/29:05:00:11	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/29:07:36:11	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-0139 Aug 29, Monday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/29:07:36:13	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-22-0220 Aug 22, Monday, 2AM.tar.gz'.
+2005/08/29:09:00:43	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/29:13:35:57	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-0739 Aug 29, Monday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/29:16:16:19	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/29:19:47:33	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-1351 Aug 29, Monday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/29:22:32:30	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-1636 Aug 29, Monday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/30:00:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/30:03:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/30:05:00:06	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/08/30:07:35:36	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-0139 Aug 30, Tuesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/30:07:35:38	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-23-0218 Aug 23, Tuesday, 2AM.tar.gz'.
+2005/08/30:07:35:41	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-0739 Aug 29, Monday, 7AM.tar.gz'.
+2005/08/30:07:35:43	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-1351 Aug 29, Monday, 1PM.tar.gz'.
+2005/08/30:07:35:45	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-1636 Aug 29, Monday, 4PM.tar.gz'.
+2005/08/30:09:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/30:12:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/30:15:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/30:19:31:44	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-1335 Aug 30, Tuesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/30:22:36:31	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-1639 Aug 30, Tuesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/31:01:33:19	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-1936 Aug 30, Tuesday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/31:04:31:18	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-2234 Aug 30, Tuesday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/31:06:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/31:07:10:41	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/08/31:09:00:40	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/31:12:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/08/31:16:35:13	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-31-1038 Aug 31, Wednesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/31:16:35:15	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-24-1447 Aug 24, Wednesday, 2PM.tar.gz'.
+2005/08/31:16:35:16	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-1335 Aug 30, Tuesday, 1PM.tar.gz'.
+2005/08/31:16:35:17	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-1639 Aug 30, Tuesday, 4PM.tar.gz'.
+2005/08/31:16:35:18	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-1936 Aug 30, Tuesday, 7PM.tar.gz'.
+2005/08/31:16:35:19	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-2234 Aug 30, Tuesday, 10PM.tar.gz'.
+2005/08/31:19:33:03	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-31-1336 Aug 31, Wednesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/08/31:22:09:50	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/01:00:34:07	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/01:03:33:30	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/01:06:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/01:07:01:12	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/01:09:00:44	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/01:12:35:34	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/01:14:13:14	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/01:15:13:02	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-0916 Sep 1, Thursday, 9AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/01:16:56:16	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-1059 Sep 1, Thursday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/01:16:56:18	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-25-1000 Aug 25, Thursday, 10AM.tar.gz'.
+2005/09/01:16:56:19	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-31-1336 Aug 31, Wednesday, 1PM.tar.gz'.
+2005/09/01:19:31:29	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-1334 Sep 1, Thursday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/01:22:12:18	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/02:01:32:32	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-1936 Sep 1, Thursday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/02:04:31:34	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-2235 Sep 1, Thursday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/02:07:30:17	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-0133 Sep 2, Friday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/02:07:30:18	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-26-0138 Aug 26, Friday, 1AM.tar.gz'.
+2005/09/02:07:30:19	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-1059 Sep 1, Thursday, 10AM.tar.gz'.
+2005/09/02:07:30:20	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-1334 Sep 1, Thursday, 1PM.tar.gz'.
+2005/09/02:07:30:21	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-1936 Sep 1, Thursday, 7PM.tar.gz'.
+2005/09/02:07:30:22	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-2235 Sep 1, Thursday, 10PM.tar.gz'.
+2005/09/02:08:17:16	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-02-0758 Sep 2, Friday, 7AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/02:08:17:20	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-23-0845 Aug 23, Tuesday, 8AM.tar.gz'.
+2005/09/02:08:17:22	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-22-0842 Aug 22, Monday, 8AM.tar.gz'.
+2005/09/02:08:17:24	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-19-0849 Aug 19, Friday, 8AM.tar.gz'.
+2005/09/02:08:17:26	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-18-0850 Aug 18, Thursday, 8AM.tar.gz'.
+2005/09/02:08:17:29	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-08-17-0852 Aug 17, Wednesday, 8AM.tar.gz'.
+2005/09/02:10:39:19	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-0442 Sep 2, Friday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/02:13:33:17	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-0736 Sep 2, Friday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/02:16:31:11	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-1034 Sep 2, Friday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/02:19:32:36	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-1336 Sep 2, Friday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/02:22:40:30	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-1643 Sep 2, Friday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/03:00:00:22	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/03:03:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/03:07:34:42	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-03-0138 Sep 3, Saturday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/03:07:34:44	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-27-0137 Aug 27, Saturday, 1AM.tar.gz'.
+2005/09/03:07:34:45	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-0442 Sep 2, Friday, 4AM.tar.gz'.
+2005/09/03:07:34:46	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-0736 Sep 2, Friday, 7AM.tar.gz'.
+2005/09/03:07:34:47	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-1034 Sep 2, Friday, 10AM.tar.gz'.
+2005/09/03:07:34:48	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-1336 Sep 2, Friday, 1PM.tar.gz'.
+2005/09/03:07:34:48	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-1643 Sep 2, Friday, 4PM.tar.gz'.
+2005/09/03:09:00:44	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/03:12:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/03:15:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/03:18:12:42	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/03:22:28:55	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-03-1632 Sep 3, Saturday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/04:00:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/04:04:31:44	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-03-2234 Sep 3, Saturday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/04:06:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/04:09:00:42	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/04:12:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/04:16:33:19	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-04-1036 Sep 4, Sunday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/04:16:33:20	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-28-1034 Aug 28, Sunday, 10AM.tar.gz'.
+2005/09/04:16:33:22	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-03-1632 Sep 3, Saturday, 4PM.tar.gz'.
+2005/09/04:16:33:23	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-03-2234 Sep 3, Saturday, 10PM.tar.gz'.
+2005/09/04:18:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/04:21:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/05:00:00:04	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/05:03:00:04	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/05:07:30:45	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-05-0134 Sep 5, Monday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/05:07:30:47	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-29-0139 Aug 29, Monday, 1AM.tar.gz'.
+2005/09/05:08:35:49	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-05-0815 Sep 5, Monday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/05:09:00:43	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/05:19:31:39	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-05-1334 Sep 5, Monday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/05:21:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/06:00:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/06:03:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/06:07:32:24	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-06-0135 Sep 6, Tuesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/06:07:32:25	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-30-0139 Aug 30, Tuesday, 1AM.tar.gz'.
+2005/09/06:07:32:26	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-05-1036 Sep 5, Monday, 10AM.tar.gz'.
+2005/09/06:07:32:28	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-05-1334 Sep 5, Monday, 1PM.tar.gz'.
+2005/09/06:08:37:39	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-06-0816 Sep 6, Tuesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/06:09:00:38	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/06:12:00:21	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/06:15:42:46	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/06:18:39:32	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/06:19:13:17	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/06:19:58:27	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/06:20:15:47	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/06:21:39:39	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/07:07:44:48	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-0147 Sep 7, Wednesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/07:07:44:50	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-08-31-1038 Aug 31, Wednesday, 10AM.tar.gz'.
+2005/09/07:08:36:06	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-07-0816 Sep 7, Wednesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/07:10:36:16	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-0439 Sep 7, Wednesday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/07:12:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/07:16:31:49	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-1034 Sep 7, Wednesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/07:19:33:41	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-1336 Sep 7, Wednesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/07:21:39:38	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/08:00:38:41	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/08:03:36:39	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/08:06:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/08:07:27:18	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/08:09:00:45	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/08:12:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/08:16:09:48	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/08:16:39:38	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1114 Sep 8, Thursday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/08:19:48:46	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1351 Sep 8, Thursday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/08:19:48:48	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-01-0916 Sep 1, Thursday, 9AM.tar.gz'.
+2005/09/08:19:48:49	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-0439 Sep 7, Wednesday, 4AM.tar.gz'.
+2005/09/08:19:48:50	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-1034 Sep 7, Wednesday, 10AM.tar.gz'.
+2005/09/08:19:48:51	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-1336 Sep 7, Wednesday, 1PM.tar.gz'.
+2005/09/08:22:33:49	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1636 Sep 8, Thursday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/09:01:34:21	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1937 Sep 8, Thursday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/09:03:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/09:07:33:42	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-0136 Sep 9, Friday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/09:07:33:45	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-02-0133 Sep 2, Friday, 1AM.tar.gz'.
+2005/09/09:07:33:47	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1351 Sep 8, Thursday, 1PM.tar.gz'.
+2005/09/09:07:33:49	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1636 Sep 8, Thursday, 4PM.tar.gz'.
+2005/09/09:07:33:51	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1937 Sep 8, Thursday, 7PM.tar.gz'.
+2005/09/09:08:46:39	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-09-0826 Sep 9, Friday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/09:08:46:43	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-02-0758 Sep 2, Friday, 7AM.tar.gz'.
+2005/09/09:09:00:39	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/09:13:05:41	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/09:14:35:22	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-0906 Sep 9, Friday, 9AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/09:15:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/09:17:34:52	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1136 Sep 9, Friday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/09:18:40:39	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/09:19:35:52	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1343 Sep 9, Friday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/09:22:31:50	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1634 Sep 9, Friday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/10:01:33:19	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1936 Sep 9, Friday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/10:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/10:07:35:23	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-10-0138 Sep 10, Saturday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/10:07:35:25	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-03-0138 Sep 3, Saturday, 1AM.tar.gz'.
+2005/09/10:07:35:26	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-0906 Sep 9, Friday, 9AM.tar.gz'.
+2005/09/10:07:35:28	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1136 Sep 9, Friday, 11AM.tar.gz'.
+2005/09/10:07:35:29	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1343 Sep 9, Friday, 1PM.tar.gz'.
+2005/09/10:07:35:30	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1634 Sep 9, Friday, 4PM.tar.gz'.
+2005/09/10:07:35:31	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-1936 Sep 9, Friday, 7PM.tar.gz'.
+2005/09/10:09:00:43	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/10:12:00:20	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/10:15:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/10:18:00:21	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/10:21:00:26	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:00:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:03:00:14	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:06:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:09:00:43	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:12:00:21	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:15:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:18:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/11:21:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/12:00:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/12:03:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/12:07:32:11	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-0135 Sep 12, Monday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/12:07:32:13	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-05-0134 Sep 5, Monday, 1AM.tar.gz'.
+2005/09/12:07:32:15	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-04-1036 Sep 4, Sunday, 10AM.tar.gz'.
+2005/09/12:08:40:07	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-12-0821 Sep 12, Monday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/12:08:40:12	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-05-0815 Sep 5, Monday, 8AM.tar.gz'.
+2005/09/12:09:00:38	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/12:13:33:34	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-0736 Sep 12, Monday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/12:18:21:15	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-1223 Sep 12, Monday, 12PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/12:21:34:07	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-1536 Sep 12, Monday, 3PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/13:01:31:59	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-1935 Sep 12, Monday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/13:03:00:26	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/13:07:33:41	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-0136 Sep 13, Tuesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/13:07:33:44	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-06-0135 Sep 6, Tuesday, 1AM.tar.gz'.
+2005/09/13:07:33:47	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-0736 Sep 12, Monday, 7AM.tar.gz'.
+2005/09/13:07:33:49	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-1035 Sep 12, Monday, 10AM.tar.gz'.
+2005/09/13:07:33:51	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-1223 Sep 12, Monday, 12PM.tar.gz'.
+2005/09/13:07:33:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-1536 Sep 12, Monday, 3PM.tar.gz'.
+2005/09/13:07:33:55	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-1935 Sep 12, Monday, 7PM.tar.gz'.
+2005/09/13:08:47:26	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-13-0827 Sep 13, Tuesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/13:08:47:31	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-06-0816 Sep 6, Tuesday, 8AM.tar.gz'.
+2005/09/13:09:00:36	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/13:13:33:16	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-0736 Sep 13, Tuesday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/13:16:35:27	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1038 Sep 13, Tuesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/13:19:33:55	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1336 Sep 13, Tuesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/13:22:34:01	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1636 Sep 13, Tuesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/14:00:22:47	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1825 Sep 13, Tuesday, 6PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/14:02:39:29	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-2042 Sep 13, Tuesday, 8PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/14:04:32:17	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-2235 Sep 13, Tuesday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/14:07:33:32	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-0136 Sep 14, Wednesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/14:07:33:35	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-07-0147 Sep 7, Wednesday, 1AM.tar.gz'.
+2005/09/14:07:33:36	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-0736 Sep 13, Tuesday, 7AM.tar.gz'.
+2005/09/14:07:33:37	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1038 Sep 13, Tuesday, 10AM.tar.gz'.
+2005/09/14:07:33:38	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1336 Sep 13, Tuesday, 1PM.tar.gz'.
+2005/09/14:07:33:39	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1636 Sep 13, Tuesday, 4PM.tar.gz'.
+2005/09/14:07:33:40	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-1825 Sep 13, Tuesday, 6PM.tar.gz'.
+2005/09/14:07:33:42	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-2042 Sep 13, Tuesday, 8PM.tar.gz'.
+2005/09/14:07:33:44	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-2235 Sep 13, Tuesday, 10PM.tar.gz'.
+2005/09/14:08:38:57	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-14-0820 Sep 14, Wednesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/14:08:39:00	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-07-0816 Sep 7, Wednesday, 8AM.tar.gz'.
+2005/09/14:09:00:39	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/14:12:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/14:15:50:49	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/14:19:34:26	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-1335 Sep 14, Wednesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/14:21:21:24	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-1522 Sep 14, Wednesday, 3PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/15:01:13:33	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/15:02:21:26	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-2055 Sep 14, Wednesday, 8PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/15:03:00:04	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/15:05:48:34	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-2349 Sep 14, Wednesday, 11PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/15:06:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/15:08:41:34	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-15-0818 Sep 15, Thursday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/15:09:00:41	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/15:11:56:42	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-15-1201 Sep 15, Thursday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/15:13:36:13	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-0736 Sep 15, Thursday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/15:13:36:15	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-08-1114 Sep 8, Thursday, 11AM.tar.gz'.
+2005/09/15:13:36:16	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-1335 Sep 14, Wednesday, 1PM.tar.gz'.
+2005/09/15:13:36:17	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-1522 Sep 14, Wednesday, 3PM.tar.gz'.
+2005/09/15:13:36:18	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-2055 Sep 14, Wednesday, 8PM.tar.gz'.
+2005/09/15:13:36:19	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-2349 Sep 14, Wednesday, 11PM.tar.gz'.
+2005/09/15:16:34:58	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1035 Sep 15, Thursday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/15:19:36:41	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1337 Sep 15, Thursday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/15:22:36:53	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1637 Sep 15, Thursday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/16:01:37:53	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1938 Sep 15, Thursday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/16:04:34:31	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-2235 Sep 15, Thursday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/16:06:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/16:08:42:03	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-16-0820 Sep 16, Friday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/16:08:42:06	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-09-0826 Sep 9, Friday, 8AM.tar.gz'.
+2005/09/16:08:42:09	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-15-1201 Sep 15, Thursday, 12PM.tar.gz'.
+2005/09/16:09:00:40	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/16:11:25:50	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-16-1200 Sep 16, Friday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/16:12:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/16:16:35:57	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-16-1036 Sep 16, Friday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/16:16:35:59	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-09-0136 Sep 9, Friday, 1AM.tar.gz'.
+2005/09/16:16:36:00	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1035 Sep 15, Thursday, 10AM.tar.gz'.
+2005/09/16:16:36:01	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1337 Sep 15, Thursday, 1PM.tar.gz'.
+2005/09/16:16:36:02	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1637 Sep 15, Thursday, 4PM.tar.gz'.
+2005/09/16:16:36:03	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-1938 Sep 15, Thursday, 7PM.tar.gz'.
+2005/09/16:16:36:04	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-2235 Sep 15, Thursday, 10PM.tar.gz'.
+2005/09/16:19:37:16	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-16-1337 Sep 16, Friday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/16:22:37:44	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-16-1638 Sep 16, Friday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/17:01:36:56	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-16-1937 Sep 16, Friday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/17:04:15:32	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/17:07:17:15	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/17:09:00:43	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/17:16:15:12	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/17:19:14:45	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/17:21:00:20	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/18:01:07:55	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/18:03:00:03	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/18:06:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/18:09:00:46	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/18:12:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/18:15:00:33	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/18:18:00:22	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/18:21:00:14	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/19:00:00:03	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/19:03:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/19:08:19:44	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-19-0757 Sep 19, Monday, 7AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/19:08:19:47	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-12-0821 Sep 12, Monday, 8AM.tar.gz'.
+2005/09/19:08:19:50	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-16-1200 Sep 16, Friday, 12PM.tar.gz'.
+2005/09/19:11:05:48	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/19:15:44:19	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/19:15:58:17	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/19:16:53:41	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/19:20:42:03	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/19:21:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/19:22:23:52	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/19:22:28:19	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/20:00:00:04	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/20:03:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/20:08:54:12	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-20-0829 Sep 20, Tuesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/20:08:54:15	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-13-0827 Sep 13, Tuesday, 8AM.tar.gz'.
+2005/09/20:11:56:42	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-20-1201 Sep 20, Tuesday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/20:14:12:27	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/20:20:13:24	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-20-1424 Sep 20, Tuesday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/21:00:34:41	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-20-1916 Sep 20, Tuesday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/21:00:39:24	sminbaiabuild	ERROR: Publish drive '\\usmpx01\NoBackup' has only 890MB free space -- minimum is 953MB.
+2005/09/21:00:43:18	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/21:01:55:07	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/21:03:05:06	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-20-2136 Sep 20, Tuesday, 9PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/21:05:02:26	syorlab4-2k	ERROR: Toss returned error status 1.
+2005/09/21:07:37:57	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-0137 Sep 21, Wednesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/21:07:37:59	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-14-0136 Sep 14, Wednesday, 1AM.tar.gz'.
+2005/09/21:07:38:00	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-13-0136 Sep 13, Tuesday, 1AM.tar.gz'.
+2005/09/21:07:38:02	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-12-0135 Sep 12, Monday, 1AM.tar.gz'.
+2005/09/21:07:38:03	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-10-0138 Sep 10, Saturday, 1AM.tar.gz'.
+2005/09/21:07:38:04	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-20-1916 Sep 20, Tuesday, 7PM.tar.gz'.
+2005/09/21:07:38:05	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-20-2136 Sep 20, Tuesday, 9PM.tar.gz'.
+2005/09/21:09:00:57	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/21:11:00:37	syorlab4-2k	ERROR: Perforce returned error status 1.  Can't clobber writable file D:\Devt\baia\src\ep\RuntimeEngine\epClient\epcF\epServer.cpp ... Can't clobber writable file D:\Devt\baia\src\ep\RuntimeEngine\epClient\epcF\RemoteDispatcher.cpp ... 
+2005/09/21:13:36:14	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-0736 Sep 21, Wednesday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/21:16:36:02	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-1036 Sep 21, Wednesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/21:16:54:39	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-21-1631 Sep 21, Wednesday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/21:16:54:42	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-14-0820 Sep 14, Wednesday, 8AM.tar.gz'.
+2005/09/21:16:54:45	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-20-1201 Sep 20, Tuesday, 12PM.tar.gz'.
+2005/09/21:18:00:25	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/21:22:35:26	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-1635 Sep 21, Wednesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/22:01:35:35	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-1935 Sep 21, Wednesday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/22:03:00:15	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/22:07:35:29	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-0135 Sep 22, Thursday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/22:07:35:30	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-15-0736 Sep 15, Thursday, 7AM.tar.gz'.
+2005/09/22:07:35:31	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-0736 Sep 21, Wednesday, 7AM.tar.gz'.
+2005/09/22:07:35:32	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-1036 Sep 21, Wednesday, 10AM.tar.gz'.
+2005/09/22:07:35:33	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-1635 Sep 21, Wednesday, 4PM.tar.gz'.
+2005/09/22:07:35:35	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-1935 Sep 21, Wednesday, 7PM.tar.gz'.
+2005/09/22:08:22:29	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-22-0800 Sep 22, Thursday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/22:08:22:33	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-15-0818 Sep 15, Thursday, 8AM.tar.gz'.
+2005/09/22:09:00:43	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/22:11:56:03	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-22-1201 Sep 22, Thursday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/22:13:37:15	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-0737 Sep 22, Thursday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/22:15:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/22:18:02:57	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/22:21:39:50	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-1540 Sep 22, Thursday, 3PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/23:01:35:41	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-1935 Sep 22, Thursday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/23:03:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/23:07:38:21	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-23-0138 Sep 23, Friday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/23:07:38:22	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-16-1036 Sep 16, Friday, 10AM.tar.gz'.
+2005/09/23:07:38:23	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-0737 Sep 22, Thursday, 7AM.tar.gz'.
+2005/09/23:07:38:24	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-1540 Sep 22, Thursday, 3PM.tar.gz'.
+2005/09/23:07:38:25	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-1935 Sep 22, Thursday, 7PM.tar.gz'.
+2005/09/23:09:06:16	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-23-0844 Sep 23, Friday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/23:09:06:19	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-16-0820 Sep 16, Friday, 8AM.tar.gz'.
+2005/09/23:09:06:22	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-22-1201 Sep 22, Thursday, 12PM.tar.gz'.
+2005/09/23:10:39:22	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-23-0439 Sep 23, Friday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/23:11:30:54	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/23:13:12:27	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/23:14:10:11	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/23:16:23:06	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/23:19:13:23	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/23:20:22:04	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/23:21:00:03	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/24:01:06:39	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/24:03:00:25	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/24:07:06:13	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/24:09:00:19	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/24:12:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/24:15:00:22	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/24:16:51:21	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/24:19:06:28	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/24:21:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/25:01:05:07	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/25:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/25:06:00:12	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/25:09:00:37	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/25:12:00:13	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/25:15:00:03	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/25:18:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/25:21:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/26:00:00:22	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/26:03:00:26	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/26:07:06:16	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/26:08:08:21	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/26:09:00:05	sminbaiabuild	ERROR: Publish drive '\\usmpx01\NoBackup' has only 806MB free space -- minimum is 953MB.
+2005/09/26:11:04:04	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/26:12:00:05	sminbaiabuild	ERROR: Publish drive '\\usmpx01\NoBackup' has only 806MB free space -- minimum is 953MB.
+2005/09/26:15:14:06	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-26-0925 Sep 26, Monday, 9AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/26:19:46:07	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-26-1344 Sep 26, Monday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/26:19:46:10	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-23-0439 Sep 23, Friday, 4AM.tar.gz'.
+2005/09/26:21:02:45	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/27:00:01:40	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/27:03:00:33	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/27:06:00:20	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/27:08:33:20	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-27-0810 Sep 27, Tuesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/27:08:33:23	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-20-0829 Sep 20, Tuesday, 8AM.tar.gz'.
+2005/09/27:08:33:26	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-19-0757 Sep 19, Monday, 7AM.tar.gz'.
+2005/09/27:09:00:53	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/27:11:28:19	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-27-1201 Sep 27, Tuesday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/27:12:00:20	sminbaiabuild	ERROR: Toss returned error status 1.
+2005/09/27:14:43:58	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-0842 Sep 27, Tuesday, 8AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/27:14:43:59	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-20-1424 Sep 20, Tuesday, 2PM.tar.gz'.
+2005/09/27:14:44:01	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-26-1344 Sep 26, Monday, 1PM.tar.gz'.
+2005/09/27:15:38:17	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/27:17:03:31	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-1106 Sep 27, Tuesday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/27:18:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/27:22:57:53	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-1656 Sep 27, Tuesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/28:01:37:07	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-1935 Sep 27, Tuesday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/28:03:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/28:07:37:02	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-0135 Sep 28, Wednesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/28:07:37:06	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-21-0137 Sep 21, Wednesday, 1AM.tar.gz'.
+2005/09/28:07:37:08	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-1106 Sep 27, Tuesday, 11AM.tar.gz'.
+2005/09/28:07:37:10	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-1656 Sep 27, Tuesday, 4PM.tar.gz'.
+2005/09/28:07:37:13	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-1935 Sep 27, Tuesday, 7PM.tar.gz'.
+2005/09/28:08:40:58	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-28-0818 Sep 28, Wednesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/28:08:41:01	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-21-1631 Sep 21, Wednesday, 4PM.tar.gz'.
+2005/09/28:08:41:04	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-27-1201 Sep 27, Tuesday, 12PM.tar.gz'.
+2005/09/28:09:00:50	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/28:11:26:07	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-28-1201 Sep 28, Wednesday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/28:12:00:27	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/28:15:16:34	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-0934 Sep 28, Wednesday, 9AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/28:17:56:18	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1154 Sep 28, Wednesday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/28:19:37:34	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1336 Sep 28, Wednesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/28:22:37:10	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1635 Sep 28, Wednesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/29:01:37:36	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1936 Sep 28, Wednesday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/29:03:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/29:07:37:09	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-0135 Sep 29, Thursday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/29:07:37:12	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-22-0135 Sep 22, Thursday, 1AM.tar.gz'.
+2005/09/29:07:37:15	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-0934 Sep 28, Wednesday, 9AM.tar.gz'.
+2005/09/29:07:37:17	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1154 Sep 28, Wednesday, 11AM.tar.gz'.
+2005/09/29:07:37:19	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1336 Sep 28, Wednesday, 1PM.tar.gz'.
+2005/09/29:07:37:21	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1635 Sep 28, Wednesday, 4PM.tar.gz'.
+2005/09/29:07:37:22	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-1936 Sep 28, Wednesday, 7PM.tar.gz'.
+2005/09/29:08:41:11	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-29-0816 Sep 29, Thursday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/29:08:41:14	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-22-0800 Sep 22, Thursday, 8AM.tar.gz'.
+2005/09/29:08:41:17	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-28-1201 Sep 28, Wednesday, 12PM.tar.gz'.
+2005/09/29:09:00:45	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/29:11:25:52	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-29-1201 Sep 29, Thursday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/29:12:00:29	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/29:16:06:24	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-1004 Sep 29, Thursday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/29:19:39:07	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-1337 Sep 29, Thursday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/29:21:40:30	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/30:01:37:06	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-1935 Sep 29, Thursday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/30:03:00:20	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/30:07:06:17	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/30:07:34:18	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-30-0134 Sep 30, Friday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/30:07:34:20	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-23-0138 Sep 23, Friday, 1AM.tar.gz'.
+2005/09/30:07:34:21	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-1004 Sep 29, Thursday, 10AM.tar.gz'.
+2005/09/30:07:34:22	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-1337 Sep 29, Thursday, 1PM.tar.gz'.
+2005/09/30:07:34:23	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-1935 Sep 29, Thursday, 7PM.tar.gz'.
+2005/09/30:09:00:47	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/30:12:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/30:12:23:47	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-30-1200 Sep 30, Friday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/09/30:12:23:51	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-23-0844 Sep 23, Friday, 8AM.tar.gz'.
+2005/09/30:12:23:54	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-29-1201 Sep 29, Thursday, 12PM.tar.gz'.
+2005/09/30:12:49:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/09/30:14:21:54	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-30-0823 Sep 30, Friday, 8AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/30:16:35:08	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-30-1036 Sep 30, Friday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/09/30:19:16:27	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/09/30:22:08:37	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/01:00:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/01:03:00:17	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/01:07:10:26	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/01:09:00:25	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/01:12:38:58	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/01:15:00:22	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/01:18:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/01:21:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/02:00:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/02:03:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/02:06:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/02:09:00:48	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/02:13:15:40	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/02:15:41:15	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/02:19:18:50	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/02:20:47:53	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/02:22:13:51	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:00:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/03:03:57:52	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:07:17:31	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:08:11:33	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:09:00:43	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/03:11:07:48	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:13:12:12	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:15:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/03:16:36:41	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:19:21:36	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/03:21:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/04:00:00:03	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/04:01:14:39	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/04:02:29:29	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/04:04:14:47	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/04:07:16:33	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/04:08:24:02	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/04:10:17:30	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/04:11:07:34	syorlab4-2k	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/04:13:35:11	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-04-0736 Oct 4, Tuesday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/04:13:35:13	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-27-0842 Sep 27, Tuesday, 8AM.tar.gz'.
+2005/10/04:13:35:14	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-26-0925 Sep 26, Monday, 9AM.tar.gz'.
+2005/10/04:13:35:15	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-30-0823 Sep 30, Friday, 8AM.tar.gz'.
+2005/10/04:13:35:16	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-30-1036 Sep 30, Friday, 10AM.tar.gz'.
+2005/10/04:15:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/04:18:00:04	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/04:22:31:35	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-04-1633 Oct 4, Tuesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/05:00:25:48	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-04-1826 Oct 4, Tuesday, 6PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/05:03:00:28	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/05:07:34:06	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-0135 Oct 5, Wednesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/05:07:34:08	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-28-0135 Sep 28, Wednesday, 1AM.tar.gz'.
+2005/10/05:07:34:09	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-04-1633 Oct 4, Tuesday, 4PM.tar.gz'.
+2005/10/05:07:34:11	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-04-1826 Oct 4, Tuesday, 6PM.tar.gz'.
+2005/10/05:08:56:11	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-05-0831 Oct 5, Wednesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/05:08:56:14	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-28-0818 Sep 28, Wednesday, 8AM.tar.gz'.
+2005/10/05:08:56:17	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-27-0810 Sep 27, Tuesday, 8AM.tar.gz'.
+2005/10/05:09:00:52	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/05:11:26:15	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-05-1201 Oct 5, Wednesday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/05:13:36:12	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-0737 Oct 5, Wednesday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/05:16:40:40	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-1041 Oct 5, Wednesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/05:19:33:26	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-1334 Oct 5, Wednesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/05:22:38:13	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-1638 Oct 5, Wednesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/06:00:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/06:03:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/06:07:31:41	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-0132 Oct 6, Thursday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/06:07:31:42	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-29-0135 Sep 29, Thursday, 1AM.tar.gz'.
+2005/10/06:07:31:43	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-0737 Oct 5, Wednesday, 7AM.tar.gz'.
+2005/10/06:07:31:44	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-1041 Oct 5, Wednesday, 10AM.tar.gz'.
+2005/10/06:07:31:45	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-1334 Oct 5, Wednesday, 1PM.tar.gz'.
+2005/10/06:07:31:46	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-1638 Oct 5, Wednesday, 4PM.tar.gz'.
+2005/10/06:08:25:49	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-06-0800 Oct 6, Thursday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/06:08:25:52	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-29-0816 Sep 29, Thursday, 8AM.tar.gz'.
+2005/10/06:08:25:54	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-05-1201 Oct 5, Wednesday, 12PM.tar.gz'.
+2005/10/06:09:00:46	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/06:11:26:26	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-06-1201 Oct 6, Thursday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/06:13:36:10	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-0736 Oct 6, Thursday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/06:16:36:09	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-1036 Oct 6, Thursday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/06:19:37:25	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-1337 Oct 6, Thursday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/06:22:37:28	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-1637 Oct 6, Thursday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/07:00:00:21	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/07:03:00:12	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/07:07:36:28	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-0136 Oct 7, Friday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/07:07:36:29	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-09-30-0134 Sep 30, Friday, 1AM.tar.gz'.
+2005/10/07:07:36:30	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-0736 Oct 6, Thursday, 7AM.tar.gz'.
+2005/10/07:07:36:31	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-1036 Oct 6, Thursday, 10AM.tar.gz'.
+2005/10/07:07:36:32	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-1337 Oct 6, Thursday, 1PM.tar.gz'.
+2005/10/07:07:36:33	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-1637 Oct 6, Thursday, 4PM.tar.gz'.
+2005/10/07:08:32:46	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-07-0807 Oct 7, Friday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/07:08:32:50	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-09-30-1200 Sep 30, Friday, 12PM.tar.gz'.
+2005/10/07:08:32:53	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-06-1201 Oct 6, Thursday, 12PM.tar.gz'.
+2005/10/07:09:00:52	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/07:12:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/07:16:37:45	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1038 Oct 7, Friday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/07:19:37:27	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1338 Oct 7, Friday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/07:22:37:26	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1637 Oct 7, Friday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/08:01:36:04	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1936 Oct 7, Friday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/08:03:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/08:07:37:18	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-0137 Oct 8, Saturday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/08:07:37:20	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1038 Oct 7, Friday, 10AM.tar.gz'.
+2005/10/08:07:37:23	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1338 Oct 7, Friday, 1PM.tar.gz'.
+2005/10/08:07:37:24	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1637 Oct 7, Friday, 4PM.tar.gz'.
+2005/10/08:07:37:26	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-1936 Oct 7, Friday, 7PM.tar.gz'.
+2005/10/08:09:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/08:12:00:32	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/08:15:00:25	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/08:19:36:52	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-1336 Oct 8, Saturday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/08:22:36:45	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-1636 Oct 8, Saturday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/09:00:00:22	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/09:04:36:52	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-2237 Oct 8, Saturday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/09:07:39:52	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-09-0140 Oct 9, Sunday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/09:07:39:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-1336 Oct 8, Saturday, 1PM.tar.gz'.
+2005/10/09:07:39:54	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-1636 Oct 8, Saturday, 4PM.tar.gz'.
+2005/10/09:07:39:55	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-2237 Oct 8, Saturday, 10PM.tar.gz'.
+2005/10/09:10:39:25	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-09-0439 Oct 9, Sunday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/09:12:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/09:15:00:20	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/09:18:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/09:21:00:23	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/10:00:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/10:03:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/10:06:01:45	sminbaiabuild	ERROR: rmdir failed.  D:\dev\Baia\isv\bcprov\1226AD~1.5\DISTRI~1\CRYPTO~1\jdk1.0\org\BOUNCY~1\math\ec - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\bcprov\1226AD~1.5\DISTRI~1\CRYPTO~1\jdk1.2\org\BOUNCY~1\jce\cert - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\bcprov\1226AD~1.5\DISTRI~1\CRYPTO~1\src\org\BOUNCY~1\asn1\misc - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\bcprov\1226AD~1.5\DISTRI~1\CRYPTO~1\src\org\BOUNCY~1\mail\smime\examples - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\icu\2.8\source\data\out\build - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\icu\2.8\source\samples\cal\CVS - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\icu\2.8\source\samples\strsrch\CVS - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\icu\2.8\source\samples\translit\CVS - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\icu\2.8\source\tools\genpname\Release - The process cannot access the file because it is being used by another process..  D:\dev\Baia\isv\openssl\09600E~1.7D\crypto\bn\asm\ALPHA~1.WOR - The process cannot access the file because it is being used by another process.
+2005/10/10:10:40:29	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-10-0440 Oct 10, Monday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/10:10:40:31	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-09-0439 Oct 9, Sunday, 4AM.tar.gz'.
+2005/10/10:12:00:24	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/10:16:36:59	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-10-1037 Oct 10, Monday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/10:19:10:47	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/10:22:10:21	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/11:00:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/11:04:09:20	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/11:06:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/11:10:38:39	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-0438 Oct 11, Tuesday, 4AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/11:10:38:40	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-04-0736 Oct 4, Tuesday, 7AM.tar.gz'.
+2005/10/11:10:38:41	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-10-1037 Oct 10, Monday, 10AM.tar.gz'.
+2005/10/11:13:37:01	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-0737 Oct 11, Tuesday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/11:16:35:58	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-1036 Oct 11, Tuesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/11:19:35:47	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-1336 Oct 11, Tuesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/11:20:16:38	sminbaiabuild	ERROR: There is a circular reference for 'contributor' in the workspace dependencies:
+Workspace 'contributor' depends on 'analyst' because Project 'ExecuteAnalystMacro' depends on 'AAWizardIF'
+Workspace 'analyst' depends on 'contributor' because Project 'epFMAPLGlue' depends on 'RDSHelper'
+
+2005/10/11:21:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/12:00:37:25	sminbaiabuild	ERROR: There is a circular reference for 'contributor' in the workspace dependencies:
+Workspace 'contributor' depends on 'analyst' because Project 'ExecuteAnalystMacro' depends on 'AAWizardIF'
+Workspace 'analyst' depends on 'contributor' because Project 'epFMAPLGlue' depends on 'RDSHelper'
+
+2005/10/12:02:27:14	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-2028 Oct 11, Tuesday, 8PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/12:03:00:12	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/12:07:37:44	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-0138 Oct 12, Wednesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/12:07:37:47	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-05-0135 Oct 5, Wednesday, 1AM.tar.gz'.
+2005/10/12:07:37:49	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-0737 Oct 11, Tuesday, 7AM.tar.gz'.
+2005/10/12:07:37:51	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-1036 Oct 11, Tuesday, 10AM.tar.gz'.
+2005/10/12:07:37:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-1336 Oct 11, Tuesday, 1PM.tar.gz'.
+2005/10/12:07:37:55	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-2028 Oct 11, Tuesday, 8PM.tar.gz'.
+2005/10/12:09:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/12:10:41:20	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1014 Oct 12, Wednesday, 10AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/12:10:41:27	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-05-0831 Oct 5, Wednesday, 8AM.tar.gz'.
+2005/10/12:12:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/12:14:59:16	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1434 Oct 12, Wednesday, 2PM.tar.gz' from folder 'D:\devt\baia'.
+2005/10/12:16:37:29	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1037 Oct 12, Wednesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/12:17:18:55	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1654 Oct 12, Wednesday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/12:19:38:07	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1338 Oct 12, Wednesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/12:20:21:46	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1957 Oct 12, Wednesday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/12:22:36:14	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1636 Oct 12, Wednesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/12:22:36:23	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-2211 Oct 12, Wednesday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:01:04:27	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-0040 Oct 13, Thursday, 12AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:01:04:30	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-06-0800 Oct 6, Thursday, 8AM.tar.gz'.
+2005/10/13:01:04:33	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1434 Oct 12, Wednesday, 2PM.tar.gz'.
+2005/10/13:01:04:35	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1654 Oct 12, Wednesday, 4PM.tar.gz'.
+2005/10/13:01:04:37	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1957 Oct 12, Wednesday, 7PM.tar.gz'.
+2005/10/13:01:04:39	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-2211 Oct 12, Wednesday, 10PM.tar.gz'.
+2005/10/13:01:34:22	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1934 Oct 12, Wednesday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/13:03:13:00	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-2113 Oct 12, Wednesday, 9PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/13:03:33:11	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-0308 Oct 13, Thursday, 3AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:05:46:48	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-0522 Oct 13, Thursday, 5AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:07:37:23	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-0137 Oct 13, Thursday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/13:07:37:24	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-06-0132 Oct 6, Thursday, 1AM.tar.gz'.
+2005/10/13:07:37:26	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1037 Oct 12, Wednesday, 10AM.tar.gz'.
+2005/10/13:07:37:27	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1338 Oct 12, Wednesday, 1PM.tar.gz'.
+2005/10/13:07:37:27	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1636 Oct 12, Wednesday, 4PM.tar.gz'.
+2005/10/13:07:37:28	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-1934 Oct 12, Wednesday, 7PM.tar.gz'.
+2005/10/13:07:37:29	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-2113 Oct 12, Wednesday, 9PM.tar.gz'.
+2005/10/13:09:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/13:11:43:59	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1119 Oct 13, Thursday, 11AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:13:35:21	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-0736 Oct 13, Thursday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/13:14:07:18	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1343 Oct 13, Thursday, 1PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:14:34:26	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1509 Oct 13, Thursday, 3PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:16:04:37	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1639 Oct 13, Thursday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:16:31:48	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1706 Oct 13, Thursday, 5PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:16:36:32	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-1037 Oct 13, Thursday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/13:17:33:37	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1808 Oct 13, Thursday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:18:00:25	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1835 Oct 13, Thursday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:18:27:54	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1902 Oct 13, Thursday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:18:55:58	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1929 Oct 13, Thursday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:19:22:48	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1957 Oct 13, Thursday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:19:44:23	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-1344 Oct 13, Thursday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/13:19:49:50	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-2024 Oct 13, Thursday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:20:17:16	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-2051 Oct 13, Thursday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:20:49:04	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-2119 Oct 13, Thursday, 9PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/13:21:37:43	sminbaiabuild	ERROR: There is a circular reference for 'contributor' in the workspace dependencies:
+Workspace 'contributor' depends on 'analyst' because Project 'ExecuteAnalystMacro' depends on 'AAWizardIF'
+Workspace 'analyst' depends on 'contributor' because Project 'epFMAPLGlue' depends on 'epsWeb'
+
+2005/10/14:00:37:36	sminbaiabuild	ERROR: There is a circular reference for 'contributor' in the workspace dependencies:
+Workspace 'contributor' depends on 'analyst' because Project 'ExecuteAnalystMacro' depends on 'AAWizardIF'
+Workspace 'analyst' depends on 'contributor' because Project 'epFMAPLGlue' depends on 'epsWeb'
+
+2005/10/14:01:52:41	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-0227 Oct 14, Friday, 2AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:01:52:45	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-07-0807 Oct 7, Friday, 8AM.tar.gz'.
+2005/10/14:01:52:47	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-0308 Oct 13, Thursday, 3AM.tar.gz'.
+2005/10/14:01:52:50	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-0522 Oct 13, Thursday, 5AM.tar.gz'.
+2005/10/14:01:52:52	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1119 Oct 13, Thursday, 11AM.tar.gz'.
+2005/10/14:01:52:54	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1343 Oct 13, Thursday, 1PM.tar.gz'.
+2005/10/14:01:52:56	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1509 Oct 13, Thursday, 3PM.tar.gz'.
+2005/10/14:01:52:59	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1639 Oct 13, Thursday, 4PM.tar.gz'.
+2005/10/14:01:53:01	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1706 Oct 13, Thursday, 5PM.tar.gz'.
+2005/10/14:01:53:03	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1808 Oct 13, Thursday, 6PM.tar.gz'.
+2005/10/14:01:53:05	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1835 Oct 13, Thursday, 6PM.tar.gz'.
+2005/10/14:01:53:07	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1902 Oct 13, Thursday, 7PM.tar.gz'.
+2005/10/14:01:53:10	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1929 Oct 13, Thursday, 7PM.tar.gz'.
+2005/10/14:01:53:12	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-1957 Oct 13, Thursday, 7PM.tar.gz'.
+2005/10/14:01:53:14	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-2024 Oct 13, Thursday, 8PM.tar.gz'.
+2005/10/14:01:53:16	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-2051 Oct 13, Thursday, 8PM.tar.gz'.
+2005/10/14:01:53:18	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-2119 Oct 13, Thursday, 9PM.tar.gz'.
+2005/10/14:03:32:41	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-0407 Oct 14, Friday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:04:35:51	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-2236 Oct 13, Thursday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/14:07:39:04	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-0139 Oct 14, Friday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/14:07:39:05	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-07-0136 Oct 7, Friday, 1AM.tar.gz'.
+2005/10/14:07:39:06	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-0736 Oct 13, Thursday, 7AM.tar.gz'.
+2005/10/14:07:39:07	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-1037 Oct 13, Thursday, 10AM.tar.gz'.
+2005/10/14:07:39:08	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-1344 Oct 13, Thursday, 1PM.tar.gz'.
+2005/10/14:07:39:08	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-2236 Oct 13, Thursday, 10PM.tar.gz'.
+2005/10/14:08:36:01	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-0811 Oct 14, Friday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:09:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/14:12:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/14:13:08:51	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1343 Oct 14, Friday, 1PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:16:37:32	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1038 Oct 14, Friday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/14:17:54:45	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1826 Oct 14, Friday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:18:22:05	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1856 Oct 14, Friday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:18:49:12	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1923 Oct 14, Friday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:19:37:40	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1338 Oct 14, Friday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/14:19:55:25	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2024 Oct 14, Friday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:20:23:49	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2057 Oct 14, Friday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:21:12:27	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2147 Oct 14, Friday, 9PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:22:06:03	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2240 Oct 14, Friday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/14:22:37:23	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1638 Oct 14, Friday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/15:01:50:01	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1950 Oct 14, Friday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/15:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/15:03:27:39	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-0402 Oct 15, Saturday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/15:03:27:43	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-0407 Oct 14, Friday, 4AM.tar.gz'.
+2005/10/15:03:27:46	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-0811 Oct 14, Friday, 8AM.tar.gz'.
+2005/10/15:03:27:49	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1343 Oct 14, Friday, 1PM.tar.gz'.
+2005/10/15:03:27:52	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1826 Oct 14, Friday, 6PM.tar.gz'.
+2005/10/15:03:27:54	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1856 Oct 14, Friday, 6PM.tar.gz'.
+2005/10/15:03:27:57	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-1923 Oct 14, Friday, 7PM.tar.gz'.
+2005/10/15:03:27:59	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2024 Oct 14, Friday, 8PM.tar.gz'.
+2005/10/15:03:28:01	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2057 Oct 14, Friday, 8PM.tar.gz'.
+2005/10/15:03:28:04	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2147 Oct 14, Friday, 9PM.tar.gz'.
+2005/10/15:03:28:06	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-2240 Oct 14, Friday, 10PM.tar.gz'.
+2005/10/15:07:39:50	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-15-0140 Oct 15, Saturday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/15:07:39:52	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-08-0137 Oct 8, Saturday, 1AM.tar.gz'.
+2005/10/15:07:39:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1038 Oct 14, Friday, 10AM.tar.gz'.
+2005/10/15:07:39:54	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1338 Oct 14, Friday, 1PM.tar.gz'.
+2005/10/15:07:39:54	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1638 Oct 14, Friday, 4PM.tar.gz'.
+2005/10/15:07:39:55	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-1950 Oct 14, Friday, 7PM.tar.gz'.
+2005/10/15:09:00:50	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/15:09:01:57	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-0837 Oct 15, Saturday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/15:12:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/15:15:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/15:15:41:53	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-1614 Oct 15, Saturday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/15:16:09:02	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-1643 Oct 15, Saturday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/15:19:37:16	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-15-1337 Oct 15, Saturday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/15:21:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:00:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:06:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:08:41:26	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-16-0817 Oct 16, Sunday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/16:08:41:30	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-0837 Oct 15, Saturday, 8AM.tar.gz'.
+2005/10/16:08:41:33	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-1614 Oct 15, Saturday, 4PM.tar.gz'.
+2005/10/16:08:41:36	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-1643 Oct 15, Saturday, 4PM.tar.gz'.
+2005/10/16:09:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:12:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:15:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:18:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/16:21:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/17:00:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/17:02:30:13	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-0304 Oct 17, Monday, 3AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:02:30:16	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-10-0800 Oct 10, Monday, 8AM.tar.gz'.
+2005/10/17:03:28:03	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-0402 Oct 17, Monday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:04:36:19	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-16-2236 Oct 16, Sunday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/17:04:36:21	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-09-0140 Oct 9, Sunday, 1AM.tar.gz'.
+2005/10/17:04:36:21	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-15-1337 Oct 15, Saturday, 1PM.tar.gz'.
+2005/10/17:06:00:18	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/17:08:48:47	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-0824 Oct 17, Monday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:09:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/17:12:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/17:13:11:04	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1345 Oct 17, Monday, 1PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:14:17:34	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1450 Oct 17, Monday, 2PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:16:31:50	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1706 Oct 17, Monday, 5PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:16:37:11	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-17-1037 Oct 17, Monday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/17:16:37:12	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-10-0440 Oct 10, Monday, 4AM.tar.gz'.
+2005/10/17:18:28:59	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1903 Oct 17, Monday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:18:57:00	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1931 Oct 17, Monday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:19:40:12	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-17-1340 Oct 17, Monday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/17:20:15:31	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-2045 Oct 17, Monday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/17:21:00:27	sminbaiabuild	EXCEPTION: Perforce returned error status 1.  Perforce client error: ... 	Connect to server failed; check $P4PORT. ... 	TCP connect to sottscm2:1681 failed. ... 	connect: sottscm2:1681: WSAETIMEDOUT ... 
+2005/10/17:21:46:20	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-2220 Oct 17, Monday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:01:37:19	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-17-1937 Oct 17, Monday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/18:03:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/18:03:28:28	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-0403 Oct 18, Tuesday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:03:28:32	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-0402 Oct 17, Monday, 4AM.tar.gz'.
+2005/10/18:03:28:35	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-0824 Oct 17, Monday, 8AM.tar.gz'.
+2005/10/18:03:28:38	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1345 Oct 17, Monday, 1PM.tar.gz'.
+2005/10/18:03:28:40	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1450 Oct 17, Monday, 2PM.tar.gz'.
+2005/10/18:03:28:43	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1706 Oct 17, Monday, 5PM.tar.gz'.
+2005/10/18:03:28:45	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1903 Oct 17, Monday, 7PM.tar.gz'.
+2005/10/18:03:28:48	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-1931 Oct 17, Monday, 7PM.tar.gz'.
+2005/10/18:03:28:50	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-2045 Oct 17, Monday, 8PM.tar.gz'.
+2005/10/18:03:28:53	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-2220 Oct 17, Monday, 10PM.tar.gz'.
+2005/10/18:07:38:57	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-0139 Oct 18, Tuesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/18:07:39:00	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-11-0438 Oct 11, Tuesday, 4AM.tar.gz'.
+2005/10/18:07:39:02	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-17-1340 Oct 17, Monday, 1PM.tar.gz'.
+2005/10/18:07:39:02	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-17-1937 Oct 17, Monday, 7PM.tar.gz'.
+2005/10/18:08:01:36	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-0737 Oct 18, Tuesday, 7AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:09:00:12	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/18:12:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/18:12:48:05	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1322 Oct 18, Tuesday, 1PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:14:02:17	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1437 Oct 18, Tuesday, 2PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:14:29:08	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1504 Oct 18, Tuesday, 3PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:15:34:09	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1603 Oct 18, Tuesday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:18:07:45	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1842 Oct 18, Tuesday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:18:36:35	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1909 Oct 18, Tuesday, 7PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:19:56:55	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-2031 Oct 18, Tuesday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:21:51:33	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-2226 Oct 18, Tuesday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/18:22:27:59	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-1628 Oct 18, Tuesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/19:00:04:43	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-1847 Oct 18, Tuesday, 6PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/19:00:06:58	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-0041 Oct 19, Wednesday, 12AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:00:07:02	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-12-1014 Oct 12, Wednesday, 10AM.tar.gz'.
+2005/10/19:00:07:05	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-0737 Oct 18, Tuesday, 7AM.tar.gz'.
+2005/10/19:00:07:08	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1322 Oct 18, Tuesday, 1PM.tar.gz'.
+2005/10/19:00:07:11	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1437 Oct 18, Tuesday, 2PM.tar.gz'.
+2005/10/19:00:07:13	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1504 Oct 18, Tuesday, 3PM.tar.gz'.
+2005/10/19:00:07:16	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1603 Oct 18, Tuesday, 4PM.tar.gz'.
+2005/10/19:00:07:18	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1842 Oct 18, Tuesday, 6PM.tar.gz'.
+2005/10/19:00:07:20	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-1909 Oct 18, Tuesday, 7PM.tar.gz'.
+2005/10/19:00:07:22	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-2031 Oct 18, Tuesday, 8PM.tar.gz'.
+2005/10/19:00:07:24	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-2226 Oct 18, Tuesday, 10PM.tar.gz'.
+2005/10/19:00:35:41	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-0109 Oct 19, Wednesday, 1AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:04:36:37	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-2236 Oct 18, Tuesday, 10PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/19:06:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/19:08:07:19	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-0743 Oct 19, Wednesday, 7AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:09:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/19:12:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/19:12:57:29	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1332 Oct 19, Wednesday, 1PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:13:48:51	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1423 Oct 19, Wednesday, 2PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:14:42:26	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1517 Oct 19, Wednesday, 3PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:16:37:52	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-19-1038 Oct 19, Wednesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/19:16:37:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-12-0138 Oct 12, Wednesday, 1AM.tar.gz'.
+2005/10/19:16:37:54	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-1628 Oct 18, Tuesday, 4PM.tar.gz'.
+2005/10/19:16:37:55	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-1847 Oct 18, Tuesday, 6PM.tar.gz'.
+2005/10/19:16:37:55	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-2236 Oct 18, Tuesday, 10PM.tar.gz'.
+2005/10/19:18:07:34	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1842 Oct 19, Wednesday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:18:11:33	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-19-1253 Oct 19, Wednesday, 12PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/19:20:05:15	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-2040 Oct 19, Wednesday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/19:22:37:43	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-19-1637 Oct 19, Wednesday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/20:00:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/20:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/20:03:27:59	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-0402 Oct 20, Thursday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:03:28:02	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-13-0040 Oct 13, Thursday, 12AM.tar.gz'.
+2005/10/20:03:28:05	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-0109 Oct 19, Wednesday, 1AM.tar.gz'.
+2005/10/20:03:28:07	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-0743 Oct 19, Wednesday, 7AM.tar.gz'.
+2005/10/20:03:28:09	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1332 Oct 19, Wednesday, 1PM.tar.gz'.
+2005/10/20:03:28:11	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1423 Oct 19, Wednesday, 2PM.tar.gz'.
+2005/10/20:03:28:14	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1517 Oct 19, Wednesday, 3PM.tar.gz'.
+2005/10/20:03:28:16	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-1842 Oct 19, Wednesday, 6PM.tar.gz'.
+2005/10/20:03:28:18	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-19-2040 Oct 19, Wednesday, 8PM.tar.gz'.
+2005/10/20:07:39:03	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-0139 Oct 20, Thursday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/20:07:39:06	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-13-0137 Oct 13, Thursday, 1AM.tar.gz'.
+2005/10/20:07:39:08	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-19-1253 Oct 19, Wednesday, 12PM.tar.gz'.
+2005/10/20:07:39:10	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-19-1637 Oct 19, Wednesday, 4PM.tar.gz'.
+2005/10/20:08:32:58	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-0808 Oct 20, Thursday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:09:00:10	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/20:10:41:50	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1116 Oct 20, Thursday, 11AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:11:08:52	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1143 Oct 20, Thursday, 11AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:11:37:39	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1210 Oct 20, Thursday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:13:22:44	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1357 Oct 20, Thursday, 1PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:13:36:57	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-0737 Oct 20, Thursday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/20:13:49:59	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1424 Oct 20, Thursday, 2PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:14:17:01	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1451 Oct 20, Thursday, 2PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:16:37:22	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-1037 Oct 20, Thursday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/20:17:23:16	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1758 Oct 20, Thursday, 5PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:17:59:22	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1834 Oct 20, Thursday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:19:40:53	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2015 Oct 20, Thursday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:19:53:44	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-1354 Oct 20, Thursday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/20:20:09:30	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2042 Oct 20, Thursday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:20:37:35	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2112 Oct 20, Thursday, 9PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:21:06:38	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2141 Oct 20, Thursday, 9PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:21:14:56	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/20:21:33:30	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2208 Oct 20, Thursday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:22:00:32	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2235 Oct 20, Thursday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/20:22:41:29	sminbaiabuild	ERROR: BDD script execWorkflow returned error code -2.
+2005/10/20:23:10:42	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2345 Oct 20, Thursday, 11PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:00:00:24	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-0034 Oct 21, Friday, 12AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:00:00:27	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-14-0227 Oct 14, Friday, 2AM.tar.gz'.
+2005/10/21:00:00:30	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-0808 Oct 20, Thursday, 8AM.tar.gz'.
+2005/10/21:00:00:33	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1116 Oct 20, Thursday, 11AM.tar.gz'.
+2005/10/21:00:00:35	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1143 Oct 20, Thursday, 11AM.tar.gz'.
+2005/10/21:00:00:37	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1210 Oct 20, Thursday, 12PM.tar.gz'.
+2005/10/21:00:00:39	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1357 Oct 20, Thursday, 1PM.tar.gz'.
+2005/10/21:00:00:42	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1424 Oct 20, Thursday, 2PM.tar.gz'.
+2005/10/21:00:00:44	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1451 Oct 20, Thursday, 2PM.tar.gz'.
+2005/10/21:00:00:46	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1758 Oct 20, Thursday, 5PM.tar.gz'.
+2005/10/21:00:00:48	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-1834 Oct 20, Thursday, 6PM.tar.gz'.
+2005/10/21:00:00:50	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2015 Oct 20, Thursday, 8PM.tar.gz'.
+2005/10/21:00:00:53	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2042 Oct 20, Thursday, 8PM.tar.gz'.
+2005/10/21:00:00:55	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2112 Oct 20, Thursday, 9PM.tar.gz'.
+2005/10/21:00:00:57	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2141 Oct 20, Thursday, 9PM.tar.gz'.
+2005/10/21:00:00:59	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2208 Oct 20, Thursday, 10PM.tar.gz'.
+2005/10/21:00:01:01	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2235 Oct 20, Thursday, 10PM.tar.gz'.
+2005/10/21:00:01:04	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-20-2345 Oct 20, Thursday, 11PM.tar.gz'.
+2005/10/21:00:09:11	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-1844 Oct 20, Thursday, 6PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/21:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/21:06:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/21:08:38:57	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-0814 Oct 21, Friday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:09:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/21:10:51:49	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-1049 Oct 21, Friday, 10AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:13:35:58	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-21-0736 Oct 21, Friday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/21:13:35:59	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-14-0139 Oct 14, Friday, 1AM.tar.gz'.
+2005/10/21:13:36:00	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-0737 Oct 20, Thursday, 7AM.tar.gz'.
+2005/10/21:13:36:01	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-1037 Oct 20, Thursday, 10AM.tar.gz'.
+2005/10/21:13:36:02	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-1354 Oct 20, Thursday, 1PM.tar.gz'.
+2005/10/21:13:36:02	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-20-1844 Oct 20, Thursday, 6PM.tar.gz'.
+2005/10/21:15:00:31	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/21:15:36:22	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-1611 Oct 21, Friday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:16:50:36	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-1724 Oct 21, Friday, 5PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:19:37:52	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-21-1338 Oct 21, Friday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/21:19:52:31	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-2025 Oct 21, Friday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:20:19:21	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-2054 Oct 21, Friday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:21:35:19	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-2210 Oct 21, Friday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/21:22:38:51	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-21-1638 Oct 21, Friday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/22:01:37:50	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-21-1938 Oct 21, Friday, 7PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/22:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/22:03:26:59	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-22-0401 Oct 22, Saturday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/22:03:27:02	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-15-0402 Oct 15, Saturday, 4AM.tar.gz'.
+2005/10/22:03:27:05	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-0814 Oct 21, Friday, 8AM.tar.gz'.
+2005/10/22:03:27:08	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-1049 Oct 21, Friday, 10AM.tar.gz'.
+2005/10/22:03:27:11	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-1611 Oct 21, Friday, 4PM.tar.gz'.
+2005/10/22:03:27:13	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-1724 Oct 21, Friday, 5PM.tar.gz'.
+2005/10/22:03:27:15	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-2025 Oct 21, Friday, 8PM.tar.gz'.
+2005/10/22:03:27:17	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-2054 Oct 21, Friday, 8PM.tar.gz'.
+2005/10/22:03:27:19	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-21-2210 Oct 21, Friday, 10PM.tar.gz'.
+2005/10/22:07:39:31	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-22-0139 Oct 22, Saturday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/22:07:39:33	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-15-0140 Oct 15, Saturday, 1AM.tar.gz'.
+2005/10/22:07:39:34	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-21-1338 Oct 21, Friday, 1PM.tar.gz'.
+2005/10/22:07:39:35	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-21-1638 Oct 21, Friday, 4PM.tar.gz'.
+2005/10/22:07:39:35	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-21-1938 Oct 21, Friday, 7PM.tar.gz'.
+2005/10/22:08:43:41	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-22-0818 Oct 22, Saturday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/22:09:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/22:12:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/22:15:00:27	sminbaiabuild	EXCEPTION: Perforce returned error status 1.  Perforce client error: ... 	Connect to server failed; check $P4PORT. ... 	TCP connect to sottscm2:1681 failed. ... 	connect: sottscm2:1681: WSAETIMEDOUT ... 
+2005/10/22:18:00:28	sminbaiabuild	EXCEPTION: Perforce returned error status 1.  Perforce client error: ... 	Connect to server failed; check $P4PORT. ... 	TCP connect to sottscm2:1681 failed. ... 	connect: sottscm2:1681: WSAETIMEDOUT ... 
+2005/10/22:21:00:27	sminbaiabuild	EXCEPTION: Perforce returned error status 1.  Perforce client error: ... 	Connect to server failed; check $P4PORT. ... 	TCP connect to sottscm2:1681 failed. ... 	connect: sottscm2:1681: WSAETIMEDOUT ... 
+2005/10/23:00:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/23:03:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/23:06:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/23:08:41:14	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-23-0815 Oct 23, Sunday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/23:08:41:18	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-16-0817 Oct 16, Sunday, 8AM.tar.gz'.
+2005/10/23:08:41:21	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-22-0818 Oct 22, Saturday, 8AM.tar.gz'.
+2005/10/23:09:00:07	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/23:12:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/23:14:32:03	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-23-1506 Oct 23, Sunday, 3PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/23:16:56:39	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-23-1052 Oct 23, Sunday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/23:16:56:40	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-16-2236 Oct 16, Sunday, 10PM.tar.gz'.
+2005/10/23:18:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/23:21:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/24:00:00:05	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/24:03:00:03	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/24:03:27:22	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-0402 Oct 24, Monday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:03:27:25	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-17-0304 Oct 17, Monday, 3AM.tar.gz'.
+2005/10/24:03:27:28	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-23-1506 Oct 23, Sunday, 3PM.tar.gz'.
+2005/10/24:07:56:36	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-24-0152 Oct 24, Monday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/24:07:56:37	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-17-1037 Oct 17, Monday, 10AM.tar.gz'.
+2005/10/24:08:54:40	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-0829 Oct 24, Monday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:09:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/24:12:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/24:15:16:01	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-1550 Oct 24, Monday, 3PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:15:46:22	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-1617 Oct 24, Monday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:17:07:45	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-24-1104 Oct 24, Monday, 11AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/24:17:28:47	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-1803 Oct 24, Monday, 6PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:19:50:05	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-2024 Oct 24, Monday, 8PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:20:06:57	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-24-1403 Oct 24, Monday, 2PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/24:21:21:09	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-2155 Oct 24, Monday, 9PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:21:48:19	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-2222 Oct 24, Monday, 10PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/24:22:55:27	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-24-1651 Oct 24, Monday, 4PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/25:00:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/25:03:00:09	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/25:03:28:36	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-25-0403 Oct 25, Tuesday, 4AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/25:03:28:40	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-18-0403 Oct 18, Tuesday, 4AM.tar.gz'.
+2005/10/25:03:28:42	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-0829 Oct 24, Monday, 8AM.tar.gz'.
+2005/10/25:03:28:45	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-1550 Oct 24, Monday, 3PM.tar.gz'.
+2005/10/25:03:28:47	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-1617 Oct 24, Monday, 4PM.tar.gz'.
+2005/10/25:03:28:50	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-1803 Oct 24, Monday, 6PM.tar.gz'.
+2005/10/25:03:28:52	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-2024 Oct 24, Monday, 8PM.tar.gz'.
+2005/10/25:03:28:54	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-2155 Oct 24, Monday, 9PM.tar.gz'.
+2005/10/25:03:28:56	syorlab4-2k	Purged publication '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-24-2222 Oct 24, Monday, 10PM.tar.gz'.
+2005/10/25:07:55:49	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-25-0151 Oct 25, Tuesday, 1AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/25:07:55:50	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-18-0139 Oct 18, Tuesday, 1AM.tar.gz'.
+2005/10/25:07:55:51	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-24-1104 Oct 24, Monday, 11AM.tar.gz'.
+2005/10/25:07:55:52	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-24-1403 Oct 24, Monday, 2PM.tar.gz'.
+2005/10/25:07:55:53	sminbaiabuild	Purged publication '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-24-1651 Oct 24, Monday, 4PM.tar.gz'.
+2005/10/25:08:55:08	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-25-0829 Oct 25, Tuesday, 8AM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/25:09:00:08	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/25:12:10:52	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-25-1245 Oct 25, Tuesday, 12PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/25:13:31:20	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-25-1405 Oct 25, Tuesday, 2PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/25:13:53:09	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-25-0749 Oct 25, Tuesday, 7AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/25:14:24:43	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-25-1458 Oct 25, Tuesday, 2PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/25:15:20:34	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-25-1546 Oct 25, Tuesday, 3PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/25:16:13:19	syorlab4-2k	Published '\\syorentdc1\NoBackup\BaiaBuildRepository\05-10-25-1622 Oct 25, Tuesday, 4PM.tar.gz' from folder 'D:\Devt\baia'.
+2005/10/25:16:56:05	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-25-1051 Oct 25, Tuesday, 10AM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/25:19:58:16	sminbaiabuild	Published '\\usmpx01\NoBackup\BaiaDevBuilds\BuildRepository\05-10-25-1353 Oct 25, Tuesday, 1PM.tar.gz' from folder 'D:\dev\Baia'.
+2005/10/25:21:00:11	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/26:00:00:02	sminbaiabuild	ERROR: Controlled files are up-to-date.
+2005/10/26:03:00:06	sminbaiabuild	ERROR: Controlled files are up-to-date.
